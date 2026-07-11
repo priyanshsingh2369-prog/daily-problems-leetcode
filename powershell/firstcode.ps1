@@ -41,4 +41,11 @@
 
 # Get-Variable MyVariable1
 # new-item -path "E:\valo" -Name "priyansh.txt" -itemtype "File" -value "hello world" 
-new-item -path "E:\valo" -Name "testing" -itemtype "Directory" 
+# new-item -path "E:\valo" -Name "testing" -itemtype "Directory" 
+
+# new-item -path "E:\valo\testing" -Name "testing.txt" -itemtype "File" -value "I Love PowerShell"
+# $PSVersionTable 
+
+Get-Help Get-Help
+Update-Help -Force
+Get-Help about_operators

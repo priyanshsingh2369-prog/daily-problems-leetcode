@@ -1,3 +1,3 @@
-# Daily LeetCode Problems
+# daily-problems-leetcode
 
 Doing daily LeetCode problems.
