@@ -186,7 +186,18 @@ class test {
 
     }
 
+    int diameter(Node root){
+        if (root == null)return 0;
+        int lft = hight(root.left);
+        int rgt = hight(root.right);
 
+        int lftdia = diameter(root.left);
+        int rgtdia = diameter(root.right);
+
+        return math.max(lft+rgt+1,math.max(lftdia,rgtdia));
+
+        
+    }
 
 
 
