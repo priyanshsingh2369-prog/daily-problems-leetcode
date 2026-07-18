@@ -86,4 +86,47 @@ n == position.length
 All integers in position are distinct.
 2 <= m <= position.length*/
 
+class Solution {
+     public static boolean valid(int[] arr, int mid, int k){
+        int srtcow =0;
+        int cowcont=1;
+        int sum =0;
+        for (int i=0;i<arr.length;i++){
+            sum =Math.abs(arr[i]-arr[srtcow]);
+            if(sum >= mid){
+                srtcow = i;
+                cowcont ++;
+                sum = 0;
+            }else {
+                
+            }
+        }
+        return cowcont>= k;
+    }
+    public int maxDistance(int[] position, int m) {
+        // code here
+        Arrays.sort(position);
+        int e =position[position.length-1]-position[0];
+        
+        int s =0;
+        int ans=0;
+        
+        while(s<=e){
+            int mid = s+(e-s)/2;
+            
+            if(valid(position , mid , m )){
+                //right
+                ans = mid ;
+                s=mid+1;
+                //write best
+                
+            }else{
+                e=mid-1;
+                
+            }
+        }
+        return ans;
+        
+    }
+}
 
