@@ -31,3 +31,27 @@ Constraints:
 
 1 <= nums.length <= 100
 1 <= nums[i] <= 100 */
+class Solution {
+    public int maxFrequencyElements(int[] nums) {
+       Map<Integer, Integer> freq = new HashMap<>();
+
+        // Count frequency of each character
+        for (int c : nums) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        }
+
+        int ans=0;
+        int max = 0;
+        for (Map.Entry<Integer,Integer> entry : freq.entrySet()){
+             if (entry.getValue() > max) {
+            max = entry.getValue();
+            }
+        }
+        for (Map.Entry<Integer,Integer> entry : freq.entrySet()){
+             if (entry.getValue() == max) {
+            ans += max;
+            }
+        }
+        return ans;
+    }
+}
