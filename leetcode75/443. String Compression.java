@@ -45,3 +45,30 @@ Constraints:
 
 1 <= chars.length <= 2000
 chars[i] is a lowercase English letter, uppercase English letter, digit, or symbol. */
+class Solution {
+public:
+    int compress(vector<char>& chars) {
+        int n = chars.size();
+        int index = 0;
+        for (int i = 0 ;i<n;i++){
+            int count = 0;
+            char ch = chars[i];
+            while(i<n&&chars[i]==ch){
+                count ++,i++;
+            }
+            if (count == 1){
+                chars [index++] = ch;
+            }else {
+                chars [index++] = ch;
+                string st = to_string(count);
+                for (char s:st){
+                    chars[index++]= s;
+                }
+                
+            }
+            i--;
+        }
+        return index;
+        
+    }
+};
