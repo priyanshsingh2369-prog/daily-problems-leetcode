@@ -45,30 +45,57 @@ Constraints:
 
 1 <= chars.length <= 2000
 chars[i] is a lowercase English letter, uppercase English letter, digit, or symbol. */
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int compress(vector<char>& chars) {
         int n = chars.size();
         int index = 0;
-        for (int i = 0 ;i<n;i++){
+
+        for (int i = 0; i < n; i++) {
             int count = 0;
             char ch = chars[i];
-            while(i<n&&chars[i]==ch){
-                count ++,i++;
+
+            while (i < n && chars[i] == ch) {
+                count++;
+                i++;
             }
-            if (count == 1){
-                chars [index++] = ch;
-            }else {
-                chars [index++] = ch;
+
+            if (count == 1) {
+                chars[index++] = ch;
+            } else {
+                chars[index++] = ch;
                 string st = to_string(count);
-                for (char s:st){
-                    chars[index++]= s;
+
+                for (char c : st) {
+                    chars[index++] = c;
                 }
-                
             }
-            i--;
+
+            i--;   // because for loop will do i++
         }
+
         return index;
-        
     }
 };
+
+int main() {
+    vector<char> chars = {'a','a','b','b','c','c','c'};
+
+    Solution obj;
+    int len = obj.compress(chars);
+
+    cout << "Compressed Length = " << len << endl;
+
+    cout << "Compressed Array = ";
+    for (int i = 0; i < len; i++) {
+        cout << chars[i] << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
