@@ -37,3 +37,40 @@ Constraints:
  
 
 Follow up: Could you write a solution that works in logarithmic time complexity? */
+
+
+
+// class Solution {
+//     public static long factorial(int n){
+//         if(n==0)return 1;
+
+//         return n*factorial(n-1);
+//     }
+
+//     public int trailingZeroes(int n) {
+//         if(n==0)return 0;
+//         long fac = factorial(n);
+//         long ans=0;
+//         while(fac >=0){
+//             if(fac%10 == 0){
+                
+//                 ans++;
+//             }else break;
+//             fac/=10;
+//         }
+//         return (int)ans;
+
+//     }
+// }
+class Solution {
+    public int trailingZeroes(int n) {
+        int count = 0;
+
+        while (n > 0) {
+            n /= 5;
+            count += n;
+        }
+
+        return count;
+    }
+}
