@@ -14,26 +14,31 @@ Doing daily LeetCode problems.
 | [0050-powx-n](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,4 +71,12 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
