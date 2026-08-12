@@ -7,6 +7,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0174-dungeon-game) |
+| [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
@@ -67,6 +68,7 @@ Doing daily LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
