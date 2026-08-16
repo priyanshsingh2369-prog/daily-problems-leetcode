@@ -13,6 +13,7 @@ Doing daily LeetCode problems.
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -22,6 +23,7 @@ Doing daily LeetCode problems.
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -37,16 +39,19 @@ Doing daily LeetCode problems.
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,11 +87,13 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -120,4 +127,8 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
