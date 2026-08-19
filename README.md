@@ -10,6 +10,7 @@ Doing daily LeetCode problems.
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -87,6 +88,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
@@ -105,6 +107,7 @@ Doing daily LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -131,4 +134,8 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
