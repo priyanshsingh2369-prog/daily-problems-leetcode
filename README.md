@@ -161,6 +161,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
@@ -171,4 +172,8 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
