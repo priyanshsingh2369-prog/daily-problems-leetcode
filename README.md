@@ -19,6 +19,7 @@ Doing daily LeetCode problems.
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -106,6 +107,7 @@ Doing daily LeetCode problems.
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
 |  |
