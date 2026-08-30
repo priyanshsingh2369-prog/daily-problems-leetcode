@@ -13,6 +13,7 @@ Doing daily LeetCode problems.
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
@@ -32,6 +33,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0050-powx-n](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
@@ -137,6 +139,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -188,16 +191,19 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1046-last-stone-weight) |
 | [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -210,4 +216,12 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
