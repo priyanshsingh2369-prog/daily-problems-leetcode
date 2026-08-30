@@ -128,6 +128,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +193,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1046-last-stone-weight) |
+| [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -200,4 +202,12 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
