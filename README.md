@@ -27,6 +27,7 @@ Doing daily LeetCode problems.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0174-dungeon-game) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Doing daily LeetCode problems.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -167,6 +171,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
