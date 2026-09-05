@@ -32,6 +32,7 @@ Doing daily LeetCode problems.
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Doing daily LeetCode problems.
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
