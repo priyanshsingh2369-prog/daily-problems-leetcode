@@ -54,6 +54,7 @@ Doing daily LeetCode problems.
 | [0115-distinct-subsequences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0174-dungeon-game) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
@@ -112,6 +113,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
