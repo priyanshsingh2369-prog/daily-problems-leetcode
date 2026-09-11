@@ -27,6 +27,7 @@ Doing daily LeetCode problems.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -101,10 +102,12 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +153,7 @@ Doing daily LeetCode problems.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
