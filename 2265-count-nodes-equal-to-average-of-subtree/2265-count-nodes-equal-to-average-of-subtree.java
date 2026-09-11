@@ -5,8 +5,6 @@ class Solution {
         dfs(root);
         return ans;
     }
-
-    // returns {sum, count}
     private int[] dfs(TreeNode node) {
         if (node == null) {
             return new int[]{0, 0};
