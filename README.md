@@ -12,6 +12,7 @@ Doing daily LeetCode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0835-image-overlap](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1046-last-stone-weight) |
@@ -145,6 +146,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0174-dungeon-game) |
+| [0835-image-overlap](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
