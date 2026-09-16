@@ -45,6 +45,7 @@ Doing daily LeetCode problems.
 | [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -63,6 +64,7 @@ Doing daily LeetCode problems.
 | [0940-distinct-subsequences-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -187,6 +189,7 @@ Doing daily LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -213,6 +216,7 @@ Doing daily LeetCode problems.
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
