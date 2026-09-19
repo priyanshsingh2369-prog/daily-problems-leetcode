@@ -130,6 +130,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0115-distinct-subsequences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -138,6 +139,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -162,6 +164,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -175,6 +178,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
