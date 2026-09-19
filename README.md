@@ -44,6 +44,7 @@ Doing daily LeetCode problems.
 | [0836-rectangle-overlap](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -269,6 +270,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0836-rectangle-overlap](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
