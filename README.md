@@ -135,6 +135,7 @@ Doing daily LeetCode problems.
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -287,4 +288,8 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
