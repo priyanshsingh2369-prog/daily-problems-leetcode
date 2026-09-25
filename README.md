@@ -110,6 +110,7 @@ Doing daily LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -139,6 +140,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0115-distinct-subsequences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -172,6 +174,7 @@ Doing daily LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -189,6 +192,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -308,4 +312,12 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
