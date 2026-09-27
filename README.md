@@ -22,6 +22,7 @@ Doing daily LeetCode problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -143,6 +144,7 @@ Doing daily LeetCode problems.
 | [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -181,6 +183,7 @@ Doing daily LeetCode problems.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
