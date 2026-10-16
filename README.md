@@ -11,6 +11,7 @@ Doing daily LeetCode problems.
 | [0174-dungeon-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0835-image-overlap](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ Doing daily LeetCode problems.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -237,6 +239,7 @@ Doing daily LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -245,6 +248,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -345,4 +349,12 @@ Doing daily LeetCode problems.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
