@@ -6,6 +6,7 @@ Doing daily LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0174-dungeon-game) |
@@ -139,6 +140,7 @@ Doing daily LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -165,6 +167,7 @@ Doing daily LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
