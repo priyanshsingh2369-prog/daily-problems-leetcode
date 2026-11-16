@@ -28,6 +28,7 @@ Doing daily LeetCode problems.
 | [1872-stone-game-viii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2747-count-zero-request-servers](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2747-count-zero-request-servers) |
@@ -201,6 +202,7 @@ Doing daily LeetCode problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2747-count-zero-request-servers](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
