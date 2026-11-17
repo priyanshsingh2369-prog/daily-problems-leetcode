@@ -144,6 +144,7 @@ Doing daily LeetCode problems.
 | [0011-container-with-most-water](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -153,6 +154,7 @@ Doing daily LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0115-distinct-subsequences) |
+| [0443-string-compression](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1096-brace-expansion-ii) |
