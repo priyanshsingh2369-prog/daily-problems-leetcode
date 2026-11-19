@@ -164,6 +164,7 @@ Doing daily LeetCode problems.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -342,6 +343,7 @@ Doing daily LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -360,6 +362,7 @@ Doing daily LeetCode problems.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/priyanshsingh2369-prog/daily-problems-leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
